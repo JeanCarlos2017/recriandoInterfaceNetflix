@@ -57,3 +57,11 @@ header nav a:hover{
 .titulo{
     font-size: 40px;
 }
+/* para a opção ler mais e ler menos */
+.filme-principal #complemento-descricao{
+    display: none;
+}
+
+.filme-principal #leia_menos{
+    display: none;
+}
