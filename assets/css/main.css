@@ -50,16 +50,18 @@ header nav a:hover{
     align-items: flex-start;
 }
 
+.filme-principal .container{
+    width: 60%;
+}
+
 .filme-principal .descricao{
     margin-bottom: 150px;
-    padding: 10px;
     text-align: justify;
 }
 
 .filme-principal .titulo{
     font-size: 40px;
     font-family: 'Trebuchet MS', serif;
-    padding-left: 5px;
 }
 
 .filme-principal .botao{
@@ -90,4 +92,9 @@ header nav a:hover{
 
 .filme-principal #leia_menos{
     display: none;
+}
+
+/* container */
+.container{
+    margin-left: 20px;
 }
